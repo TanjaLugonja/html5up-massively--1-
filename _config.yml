@@ -1,0 +1,3 @@
+source: /github/workspace/docs
+destination: /github/workspace/docs/_site
+jekyll: 3.9.5
